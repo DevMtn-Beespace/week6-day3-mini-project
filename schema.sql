@@ -1,4 +1,4 @@
-create sequence incidents_id_seq;
+create sequence incidents_id_seq; // this tells it to autoincrement primary keys
 
 -- Create an affected_areas table
 CREATE TABLE affected_areas
